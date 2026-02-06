@@ -9,3 +9,13 @@ According to some users, they just got the 'Some settings are managed by your or
 There are some solutions afloat on the internet, but these often are too difficult for users to wade through.
 
 Now there is UnblockRestrictions that will solve this problem once and for all.
+
+Instructions:
+- Download the batchfile to your Desktop
+- Run as an Administrator (Right-click > 'Run as admin')
+
+Recommendation:
+Always create a system restore point before running this script.
+
+Changelog:
+- [06feb26] version 1.0: Initial release
