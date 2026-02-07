@@ -15,7 +15,7 @@ Instructions:
 - Run as an Administrator (Right-click > 'Run as admin')
 
 Recommendation:
-Always create a system restore point before running this script.
+Back up your registry before running this batch file (regedit > File > Export > All)
 
 Changelog:
 - [06feb26] version 1.0: Initial release
